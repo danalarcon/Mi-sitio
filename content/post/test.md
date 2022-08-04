@@ -1,5 +1,5 @@
 ---
-title: "Test"
+title: "Soy un título"
 date: 2022-08-03T16:02:13-04:00
 draft: false
 cover: 
