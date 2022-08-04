@@ -1,6 +1,6 @@
 baseURL: "https://fordan.netlify.app/"
 languageCode: "es"
-title: My New Hugo Site
+title: Icaro
 theme: PaperMod
 paginate: 5
 
