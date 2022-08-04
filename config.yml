@@ -21,7 +21,7 @@ params:
   title: ExampleSite
   description: "ExampleSite description"
   keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  author: Daniel
   # author: ["Daniel", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
@@ -151,6 +151,6 @@ outputs:
         - HTML
         - RSS
         - JSON # is necessary
-        
+
 markdown:
     escape_markup: true
