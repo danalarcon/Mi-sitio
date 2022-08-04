@@ -146,6 +146,11 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
-
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
+        
 markdown:
     escape_markup: true
