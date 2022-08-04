@@ -3,12 +3,9 @@ title: Prueba Iframe
 date: 2022-08-04T15:22:02.358Z
 draft: false
 description: Test
-lastmod: 2022-08-04T17:53:56.496Z
+lastmod: 2022-08-04T18:04:04.819Z
 ---
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc2VyklTyRj6_FthXy-X9hFNFH8FOWmYr6NwpgbZDiMuvidjg/viewform?embedded=true" width="640" height="2542" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
+Soy una prueba
 
-{{< iframe https://docs.google.com/forms/d/e/1FAIpQLSc2VyklTyRj6_FthXy-X9hFNFH8FOWmYr6NwpgbZDiMuvidjg/viewform?embedded=true/ >}}
-
-{{<  myshortcode `This is some <b>HTML</b>,
-and a new line with a "quoted string".` >}}
+{{< myshortcode >}}
