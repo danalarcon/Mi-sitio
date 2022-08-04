@@ -1,9 +1,9 @@
 ---
 title: Buscar
 layout: search
-# url: "/archive"
+# url: "/archives"
 # description: "Description for Search"
 summary: search
 placeholder: escribe lo que buscas...
-lastmod: 2022-08-04T15:52:05.092Z
+lastmod: 2022-08-04T17:17:58.898Z
 ---
