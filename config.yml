@@ -151,6 +151,3 @@ outputs:
         - HTML
         - RSS
         - JSON # is necessary
-
-markdown:
-    escape_markup: true
