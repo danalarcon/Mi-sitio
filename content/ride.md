@@ -1,9 +1,8 @@
 ---
-title: Archivos
-layout: archives
-url: /archives/
-summary: archivos
-lastmod: 2022-08-05T16:44:35.342Z
+title: Ride
+url: /ride/
+summary: ride
+lastmod: 2022-08-05T16:49:15.677Z
 ---
 
 # Welcome to Chuño Ride
