@@ -3,10 +3,10 @@ title: Más de un año usando P.A.R.A
 date: 2022-08-04T15:22:02.358Z
 draft: false
 cover:
-  image: img/Mapa1.jpeg
+  image: img/para.jpeg
   alt: this is a post image
-  caption: this is the caption
-description: Plugin para escribir
+  caption: sistema P.A.R.A
+description: La estupidez se puede superar, sólo hace falta un poquito de ganas. Y esta herramienta me ayudó.
 lastmod: 2022-08-04T19:30:34.143Z
 ---
 ## Más de un año usando P.A.R.A
@@ -21,25 +21,25 @@ En resumen este sistema está basado en la "Gestión de conocimiento personal". 
 
 Primero debes saber que es el P.A.R.A:
 
-P: Proyectos
+**P: Proyectos**
 
 Los proyectos, son aquellos que tienen una fecha límite. Es aquí donde te puedes comenzar a perder. Cuando uno trabaja con proyectos, generalmente los asocia con objetivos generales, específicos, y bla bla bla. Aqui no. Es simplemente algo que tengo que terminar, en una fecha determinada.
 
 Ejemplo: Correr una maratón
 
-A: Áreas
+**A: Áreas**
 
 Para hacer un poco más fácil las áreas. Generalmente son más "estáticas" ya que cuando uno realiza un proyecto para su trabajo, el área es lo "laboral" ¿Se entiende?
 
 Ejemplo: Running
 
-R: Recursos
+**R: Recursos**
 
 Aquí en donde vamos a concentrar todo aquello que necesitemos para llevar a cabo nuestras tareas y cumplir con nuestro proyectos.
 
 Ejemplo: Plan de entrenamiento
 
-A: Archivos
+**A: Archivos**
 
 Una vez que ya hayamos finalizado nuestro proyecto, todo debería quedar "archivado", de esta manera tenemos espacio de trabajo más "limpio".
 
