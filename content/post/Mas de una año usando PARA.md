@@ -54,3 +54,5 @@ La gracia de todo esto, es que puedes lograr armar un "sistema" que te proporcio
 Pero eso da para otro tema, mientras tanto, si te interesa este tema, en YouTube está lleno de información para aprenderlo y aplicarlo.
 
 Aqui te dejo uno:
+
+{{< myshortcodes >}}
