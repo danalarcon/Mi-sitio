@@ -45,5 +45,12 @@ Una vez que ya hayamos finalizado nuestro proyecto, todo debería quedar "archiv
 
 Ejemplo: Plan de entrenamiento, cuando ya haya corrido la maratón.
 
+### Y ¿Ahora qué?
 
-![The San Juan Mountains are beautiful!](https://image.shutterstock.com/image-photo/dunhuang-desert-sand-mountain-scenery-260nw-1404221600.jpg "San Juan Mountains")
+Una vez que comprendes el método queda aplicarlo. En mi caso comencé usando Notion, pero ahora estoy sacándole el jugo a Obsidian. Ya que funciona de la misma manera en que estoy utilizando Hugo para escribir este blog.
+
+La gracia de todo esto, es que puedes lograr armar un "sistema" que te proporciona orden, y si utilizas Obsidian logras "ver" cómo el contenido que vas creando puede "unirse" con otro a traves de diferentes tags o creacion de notas.
+
+Pero eso da para otro tema, mientras tanto, si te interesa este tema, en YouTube está lleno de información para aprenderlo y aplicarlo.
+
+Aqui te dejo uno:
