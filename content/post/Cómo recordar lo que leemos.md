@@ -4,6 +4,11 @@ date: 2022-08-22T15:28:09.213Z
 draft: false
 description: Intentando darle sentido a las notas
 lastmod: 2022-08-04T15:28:39.163Z
+cover:
+  image: img/recordarlectura.jpeg
+  alt: recordar lo que leemos
+
+
 ---
 
 ## ¿Será posible?
