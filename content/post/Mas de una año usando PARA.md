@@ -13,7 +13,7 @@ lastmod: 2022-08-04T19:30:34.143Z
 
 Soy un tipo freak con la tecnología, pero sobre todo con herramientas que estén asociadas a la productividad, u organización.
 
-Es así cómo llegue al sistema P.A.R.A creado por Tiago Forte.
+Es así cómo llegue al sistema #P.A.R.A creado por Tiago Forte.
 
 En resumen este sistema está basado en la "Gestión de conocimiento personal". Lo cual te permite tener un "Second Brain". Un cerebro digital, que te permita recopilar información, generar nuevas ideas, trackear proyectos, y muchas cosas más.
 
