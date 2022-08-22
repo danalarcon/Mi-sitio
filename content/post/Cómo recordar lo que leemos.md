@@ -29,3 +29,5 @@ Tendre que conseguir que lo que leo, haga "match" de alguna manera con lo que es
 Lo interesante de todo esto, es que me obliga a aprender un poco más sobre Obsidian, y sacarle un poco más de provecho.
 
 Veamos que sale de todo esto.
+
+{{< obsidian-takenote >}}
