@@ -19,7 +19,7 @@ Por lo tanto, quedó en pausa y las notas se fueron sumando a Draft, sin un mayo
 
 En una de las recomendaciones de YouTube me salió Obsidian, un "block de notas" más avanzado que muchos otros gracias a un montón de funcionalidades.
 
-Lo había probado hacía algún tiempo, pero también no terminó por encantarme. Pero justo después que comencé a leer sobre el método Zettelkasten, #Obsidian volvió a tomar un impulso.
+Lo había probado hacía algún tiempo, pero también no terminó por encantarme. Pero justo después que comencé a leer sobre el método Zettelkasten, Obsidian volvió a tomar un impulso.
 
 Lo pimero que hice fue aprender un poco más sobre Obsidian, los plugins, la forma en que se puede trabajar, pero siempre enfocado con un método, ya que sin el se puede transformar en otro block de notas.
 

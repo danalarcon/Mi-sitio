@@ -9,7 +9,7 @@ cover:
 description: La estupidez se puede superar, sólo hace falta un poquito de ganas. Y esta herramienta me ayudó.
 lastmod: 2022-08-04T19:30:34.143Z
 ---
-## Más de un año usando #P.A.R.A
+## Más de un año usando P.A.R.A
 
 Soy un tipo freak con la tecnología, pero sobre todo con herramientas que estén asociadas a la productividad, u organización.
 
