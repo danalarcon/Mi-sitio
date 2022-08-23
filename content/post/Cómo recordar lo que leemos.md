@@ -2,8 +2,8 @@
 title: ¿Cómo recordar lo que leemos?
 date: 2022-08-22T15:28:09.213Z
 draft: false
-tags: ["test"]
-categories: ["Lectura"]
+tags: ["Readwise", "Obsidian"]
+categories: ["Libros"]
 description: Intentando darle sentido a las notas
 lastmod: 2022-08-04T15:28:39.163Z
 cover:
