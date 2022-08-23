@@ -2,6 +2,8 @@
 title: Más de un año usando P.A.R.A
 date: 2022-08-04T15:22:02.358Z
 draft: false
+tags: ["P.A.R.A", "Second Brain", "Notion", "obsidian"]
+categories: ["Second Brain"]
 cover:
   image: img/para.jpeg
   alt: this is a post image
