@@ -10,7 +10,6 @@ cover:
   alt: aprender, aprendiendo
 ---
 
-# Estudiar o aprender de YouTube tomando notas
 
 Estoy escuchando audiolibros mientras organizo y limpio mi casa, pero luego de esuchar por una hora llegó el momento donde empecé a escuchar cosas que tenian mucho valor y no queria perderlo.
 
