@@ -15,7 +15,9 @@ Estoy escuchando audiolibros mientras organizo y limpio mi casa, pero luego de e
 
 Entonces me pregunte y ¿dónde tomo nota para que no se me pierdan? Lo primero que pensé fue obviamente en Obsidian, pero luego pensé ¿No habrá una manera de tomar notas de YouTube?
 
-Y fue ahí, cuando descubrí https://annotate.tv/ lo genial de este sitio web, es que puedes ir tomando notas del video, y te marca el minuto exacto donde está la nota, lo cuál lo hace mucho más valioso.
+![Este es el secreto](img/annotate.jpg "Annotate")
+
+Y fue ahí, cuando descubrí **https://annotate.tv/** lo genial de este sitio web, es que puedes ir tomando notas del video, y te marca el minuto exacto donde está la nota, lo cuál lo hace mucho más valioso.
 
 Pero eso no es todo. La "magia" ocurre cuando conectas Annotate con Readwise, ya que puedes enviar las notas que tomas a donde tu quieras, en este caso las envié a Obsidian.
 
