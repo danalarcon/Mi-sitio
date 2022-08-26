@@ -1,13 +1,13 @@
 ---
-title: Tomar notas desde un video de YouTube
-date: 2022-08-26T16:44:49-04:00
+title: Estudiar o aprender de YouTube tomando notas
+date: 2022-08-25T15:28:09.213Z
 draft: false
-lastmod: 2022-08-26T20:45:59.492Z
 tags: ["Readwise", "Obsidian", "Annotate"]
 categories: ["Libros", "Second Brain"]
+lastmod: 2022-08-04T15:28:39.163Z
 cover:
   image: img/annotate.jpg
-  alt: Estudiando
+  alt: aprender, aprendiendo
 ---
 
 # Estudiar o aprender de YouTube tomando notas

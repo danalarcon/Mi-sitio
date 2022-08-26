@@ -9,8 +9,6 @@ lastmod: 2022-08-04T15:28:39.163Z
 cover:
   image: img/recordarlectura.jpeg
   alt: recordar lo que leemos
-
-
 ---
 
 ## ¿Será posible?
