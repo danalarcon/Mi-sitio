@@ -7,7 +7,7 @@ tags: ["Readwise", "Obsidian", "Annotate"]
 categories: ["Libros", "Second Brain"]
 cover:
   image: img/annotate.jpg
-  alt: recordar lo que leemos
+  alt: Estudiando
 ---
 
 # Estudiar o aprender de YouTube tomando notas
