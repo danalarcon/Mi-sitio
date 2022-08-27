@@ -15,10 +15,7 @@ Estoy escuchando audiolibros mientras organizo y limpio mi casa, pero luego de e
 
 Entonces me pregunte y ¿dónde tomo nota para que no se me pierdan? Lo primero que pensé fue obviamente en Obsidian, pero luego pensé ¿No habrá una manera de tomar notas de YouTube?
 
-![Este es el secreto4](https://fordan.netlify.app/public/img/Mapa1.png)
-![Example image](https://d33wubrfki0l68.cloudfront.net/554d18c052498f67c0b96d260078e37494753921/282a8/images/home-page-templating-example.png)
-
-<img src="https://d33wubrfki0l68.cloudfront.net/554d18c052498f67c0b96d260078e37494753921/282a8/images/home-page-templating-example.png" alt="demo" class="img-responsive">
+![Annotate](/img/annotate-2.png)
 
 
 Y fue ahí, cuando descubrí **https://annotate.tv/** lo genial de este sitio web, es que puedes ir tomando notas del video, y te marca el minuto exacto donde está la nota, lo cuál lo hace mucho más valioso.
