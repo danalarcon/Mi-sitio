@@ -15,8 +15,8 @@ Estoy escuchando audiolibros mientras organizo y limpio mi casa, pero luego de e
 
 Entonces me pregunte y ¿dónde tomo nota para que no se me pierdan? Lo primero que pensé fue obviamente en Obsidian, pero luego pensé ¿No habrá una manera de tomar notas de YouTube?
 
-![Este es el secreto](/public/img/annotate-2.png)
-![Example image](/static/annotate-2.png)
+![Este es el secreto3](/img/Mapa1.png)
+![Example image](https://d33wubrfki0l68.cloudfront.net/554d18c052498f67c0b96d260078e37494753921/282a8/images/home-page-templating-example.png)
 
 <img src="https://d33wubrfki0l68.cloudfront.net/554d18c052498f67c0b96d260078e37494753921/282a8/images/home-page-templating-example.png" alt="demo" class="img-responsive">
 
