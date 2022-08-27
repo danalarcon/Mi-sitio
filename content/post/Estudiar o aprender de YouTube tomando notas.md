@@ -1,5 +1,5 @@
 ---
-title: Estudiar o aprender de YouTube tomando notas
+title: Tomando apuntes de un video de YouTube
 date: 2022-08-25T15:28:09.213Z
 draft: false
 tags: ["Readwise", "Obsidian", "Annotate"]
@@ -11,9 +11,9 @@ cover:
 ---
 
 
-Estoy escuchando audiolibros mientras organizo y limpio mi casa, pero luego de esuchar por una hora llegó el momento donde empecé a escuchar cosas que tenian mucho valor y no queria perderlo.
+Estaba escuchando un audiolibro mientras organizaba y limpiaba mi casa, luego de escuchar por una hora, llegó el momento donde quise tomar apuntes.
 
-Entonces me pregunte y ¿dónde tomo nota para que no se me pierdan? Lo primero que pensé fue obviamente en Obsidian, pero luego pensé ¿No habrá una manera de tomar notas de YouTube?
+Entonces me pregunte y ¿dónde tomo nota para que no se me pierdan? Lo primero que pensé fue obviamente en Obsidian, pero luego pensé ¿No habrá una manera de tomar notas de YouTube y que se sincronicen?
 
 ![Annotate](/img/annotate-2.png)
 
