@@ -54,7 +54,7 @@ params:
     safari_pinned_tab:  "/safari-pinned-tab.svg"
 
   label:
-    text: "Second Brain"
+    text: "En Corto"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
@@ -76,15 +76,15 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Jelou! \U0001F44B"
-    Content: Bienvenido a mi Second Brain
+    Content: Bienvenido a En Corto, espacio donde he decidido dejar mi Second Brain.
 
   socialIcons:
     - name: twitter
-      url: "https://twitter.com/"
+      url: "https://twitter.com/_DanAlarcon_"
     - name: instagram
-      url: "https://instagram.com"
-    - name: github
-      url: "https://github.com/"
+      url: "https://www.instagram.com/_danalarcon_/"
+    - name: facebook
+      url: "https://www.facebook.com/elblogdedaniel"
 
   analytics:
     google:
