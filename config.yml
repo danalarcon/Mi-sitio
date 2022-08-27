@@ -75,8 +75,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Jelou! \U0001F44B"
-    Content: Bienvenido a En Corto, espacio donde he decidido dejar mi Second Brain.
+    Title: "En Corto :black_nib: \U0001F44B"
+    Content: Espacio donde he decidido dejar mi Second Brain, y compartir contigo lo que aprendo, siempre En Corto.
 
   socialIcons:
     - name: twitter
