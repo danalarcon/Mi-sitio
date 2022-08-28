@@ -1,7 +1,7 @@
 ---
 title: Vivir de un Blog
 date: 2022-08-04T16:44:49-04:00
-draft: false
+draft: true
 lastmod: 2022-08-04T20:45:59.492Z
 ---
 # Experiencia de 8 años con un Blog
