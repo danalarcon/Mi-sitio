@@ -121,7 +121,7 @@ languages:                      # 配置多语言
 menu:
   main:
     - identifier: archives
-      name: :dizzy:Publicaciones
+      name: Publicaciones
       url: /archives/
       weight: 10
     - identifier: categories
