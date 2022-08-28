@@ -78,8 +78,6 @@ params:
     Title: "En Corto \U0001F44B"
     Content: Espacio donde he decidido dejar mi Second Brain, y compartir contigo lo que aprendo, tratando que siempre sea En Corto.
 
-
-
   socialIcons:
     - name: twitter
       url: "https://twitter.com/_DanAlarcon_"
@@ -115,6 +113,11 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
+
+languages:                      # 配置多语言
+    en:
+        languageName: "Spanish"
+
 menu:
   main:
     - identifier: archives
