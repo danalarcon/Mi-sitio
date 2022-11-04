@@ -4,6 +4,10 @@ date: 2022-11-03T021:44:56-04:00
 draft: false
 tags: ["Emprendimiento"]
 categories: ["Negocios"]
+cover:
+  image: img/emprender.jpg
+  alt: emprendiendo de cero
+  caption: Emprendimiento
 ---
 
 ## Partiendo de cero
