@@ -1,6 +1,6 @@
 ---
 title: "Volviendo a emprender"
-date: Thursday, November 3, 2022
+date: "2022-11-02"
 draft: false
 tags: ["Emprendimiento"]
 categories: ["Negocios"]
