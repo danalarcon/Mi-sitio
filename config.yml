@@ -76,7 +76,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "En Corto \U0001F44B"
-    Content: Espacio donde he decidido dejar mi Second Brain, y compartir contigo lo que aprendo, tratando que siempre sea En Corto.
+    Content: Espacio donde he decidido dejar mi "Second Brain", y compartir contigo lo que aprendo, tratando que siempre sea En Corto.
 
   socialIcons:
     - name: twitter
