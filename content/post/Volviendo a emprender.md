@@ -2,7 +2,7 @@
 title: "Volviendo a emprender"
 date: "2022-11-02"
 draft: false
-tags: ["Emprendimiento"]
+tags: ["Emprendimiento", "libros"]
 categories: ["Negocios"]
 cover:
   image: img/emprender.jpg
