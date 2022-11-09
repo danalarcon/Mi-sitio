@@ -5,7 +5,7 @@ draft: false
 tags: ["Emprendimiento", "WordPress"]
 categories: ["Negocios"]
 cover:
-  image: img/hackerman.jpg
+  image: img/hackerman.jpeg
   caption: Emprendimiento
 ---
 
