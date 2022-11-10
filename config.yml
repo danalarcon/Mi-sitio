@@ -12,6 +12,8 @@ buildExpired: false
 
 googleAnalytics: G-Y73BGHXZZV
 
+googleAnalytics = "UG-Y73BGHXZZV"
+
 minify:
   disableXML: true
   minifyOutput: true
