@@ -5,7 +5,7 @@ draft: false
 tags: ["Emprendimiento", "Mentalidad de crecimiento"]
 categories: ["Negocios"]
 cover:
-  image: img/pasoapaso.jpeg
+  image: img/pasoapaso.jpg
   caption: Emprendimiento
 ---
 
