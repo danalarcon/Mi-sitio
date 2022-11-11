@@ -1,6 +1,6 @@
 ---
 title: "Volver atrás es aprender"
-date: "2022-11-14"
+date: "2022-11-11"
 draft: false
 tags: ["Emprendimiento", "Mentalidad de crecimiento"]
 categories: ["Negocios"]
